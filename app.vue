@@ -7,7 +7,7 @@
 
 <script>
 import Comp from "./src/Comp.vue";
-import FromGroup from 'zod'
+import FromGroup from 'y'
 
 export default {
   name: "App",
